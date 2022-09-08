@@ -1,0 +1,53 @@
+.fondoverde{
+    background-color: #1ABC9C;
+}
+.fondorojo{
+    background-color: #e74c3c;
+}
+.fondoazul{
+    background-color: #3498db;
+}
+.fondoblanco{
+    background-color: #ecf0f1;
+}
+.fondomorao{
+    background-color: #9b59b6;
+}
+.fondoamarillo{
+    background-color: #f1c40f;
+}
+.fondoverdeclaro{
+    background-color: #2ecc71;
+}
+.letrablanca{
+    color: aliceblue;
+}
+.tamañoletra{
+    font-size: 30px;
+}
+.bordegris1{
+    border: 5px outset #817e80;
+}
+.bordegris2{
+    border: 5px outset #807f80;
+}
+.bordegris3{
+    border: 8px outset #807f80;
+}
+.bordegris4{
+    border: 2px outset #807f80;
+}
+.bordenegro{
+    border: 1px outset #807f80;
+}
+tamañocuadro{
+    width: 100%;
+}
+/* se puede poner la "variable"  ya sea body table etc
+ y se aplicara a todo lo que sea del mismo tipo*/
+/margen, si fue a drede la u extra/
+ .marguen{
+     margin: -5px;
+     padding: -5px;
+
+}
